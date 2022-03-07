@@ -2,10 +2,10 @@
 This is a program on python that automaticly parse important info from random Wikipedia article and posts it in your vk group.
 
 ### Installation:
-####1.Install these libs:
+####Install these libs:
 -lxml
 -vk_api
-####2.Create config.py in main dir with these variables:
+####Create config.py in main dir with these variables:
 -login      = "***your vk login***"
 -password   = "***your vk pasword***"
 -group_id   = ***vk group id***
